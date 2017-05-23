@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Softgroup test</string>
+    <string name="lay_first">Login</string>
+    <string name="lay_second">Registration</string>
+    <string name="lay_third">Welcome</string>
+
+    <string name="prompt_email">Email-адрес</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="prompt_repassword">Подтверждение пароля</string>
+    <string name="action_login">Войти</string>
+    <string name="action_logout">Выйти</string>
+    <string name="action_register">Регистрация</string>
+    <string name="action_record">Зарегистрировать</string>
+    <string name="error_incorrect_password">Неверный логин и/или пароль</string>
+    <string name="error_invalid_password">Пароли не совпадают</string>
+    <string name="error_invalid_email">Этот email уже зарегистрирован</string>
+    <string name="error_email">Некоректный email</string>
+    <string name="error_password">Некоректный пароль</string>
+</resources>
